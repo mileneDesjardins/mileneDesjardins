@@ -1,6 +1,12 @@
 <h1 align="center">Hi👋, I'm Milène Desjardins</h1>
 <h3 align="center">je suis une passionnée de développement web</h3>
 
+
+<div align="center">
+  <img src="https://github.com/mileneDesjardins/mileneDesjardins/assets/106025922/1df5fcd1-875b-4643-b5cc-c8704f492625" alt="Description du GIF">
+</div>
+
+
 - 🏫 I am a student at UQAM in the **Bachelor of Science in Management, specialized in Information Technology**
 
 - 🖥️ I am taking the **The Complete 2024 Web Development Bootcamp** course on Udemy
