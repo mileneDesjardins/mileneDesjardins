@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋, I'm Milène Desjardins</h1>
+<h1 align="center">Hi👋, I'm Milène Desjardins</h1>
 <h3 align="center">je suis une passionnée de développement web</h3>
 
 - 🏫 I am a student at UQAM in the **Bachelor of Science in Management**
