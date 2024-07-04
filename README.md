@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, je suis Milène Desjardins</h1>
 <h3 align="center">une passionnée de développement web</h3>
 
-- 🏫 Je suis étudiante à l'UQAM **Baccalauréat ès sciences de la gestion**
+- 🏫 Je suis étudiante à l'UQAM au **Baccalauréat ès sciences de la gestion**
 
 - 🖥️ Je suis présentement le cours sur Udemy **The Complete 2024 Web Development Bootcamp**
 
