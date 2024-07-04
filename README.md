@@ -5,7 +5,7 @@
 
 - 🖥️ Je suis le cours sur Udemy **The Complete 2024 Web Development Bootcamp**
 
-- 📜 J'ai la certification [Responsive Web Design](https://www.freecodecamp.org/certification/fcc9455d4a1-f4aa-41d9-961f-ec4223936515/responsive-web-design)
+- 📜 J'ai la certification de FreeCodeCamp **[Responsive Web Design](https://www.freecodecamp.org/certification/fcc9455d4a1-f4aa-41d9-961f-ec4223936515/responsive-web-design)**
 
 - 👨‍💻 Tous mes projets sont disponibles à [https://github.com/mileneDesjardins?tab=repositories](https://github.com/mileneDesjardins?tab=repositories)
 
