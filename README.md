@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Milène Desjardins</h1>
-<h3 align="center">je suis une passionnée de développement web</h3>
+<h3 align="center">a passionate web developper</h3>
 
 
 <div align="center">
