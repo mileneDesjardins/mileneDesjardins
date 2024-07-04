@@ -1,15 +1,15 @@
-<h1 align="center">Hey👋</h1>
+<h1 align="center">Hey👋, I'm Milène Desjardins</h1>
 <h3 align="center">je suis une passionnée de développement web</h3>
 
-- 🏫 Je suis étudiante à l'UQAM au **Baccalauréat ès sciences de la gestion**
+- 🏫 I am a student at UQAM in the **Bachelor of Science in Management**
 
-- 🖥️ Je suis le cours sur Udemy **The Complete 2024 Web Development Bootcamp**
+- 🖥️ I am taking the **The Complete 2024 Web Development Bootcamp** course on Udemy
 
-- 📜 J'ai la certification de FreeCodeCamp **[Responsive Web Design](https://www.freecodecamp.org/certification/fcc9455d4a1-f4aa-41d9-961f-ec4223936515/responsive-web-design)**
+- 📜 I have the **[Responsive Web Design](https://www.freecodecamp.org/certification/fcc9455d4a1-f4aa-41d9-961f-ec4223936515/responsive-web-design)** certification from FreeCodeCamp
 
-- 👨‍💻 Tous mes projets sont disponibles à [https://github.com/mileneDesjardins?tab=repositories](https://github.com/mileneDesjardins?tab=repositories)
+- 👨‍💻 All my projects are available at [https://github.com/mileneDesjardins?tab=repositories](https://github.com/mileneDesjardins?tab=repositories)
 
-- 📫 Pour me rejoindre : m.desjardins31@outlook.com
+- 📫 To contact me: m.desjardins31@outlook.com
 
 
 <p align="left">
