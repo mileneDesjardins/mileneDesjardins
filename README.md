@@ -1,5 +1,5 @@
-<h1 align="center">Hey👋, je suis Milène Desjardins</h1>
-<h3 align="center">une passionnée de développement web</h3>
+<h1 align="center">Hey👋</h1>
+<h3 align="center">je suis une passionnée de développement web</h3>
 
 - 🏫 Je suis étudiante à l'UQAM au **Baccalauréat ès sciences de la gestion**
 
