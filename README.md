@@ -3,7 +3,7 @@
 
 - 🏫 Je suis étudiante à l'UQAM **Baccalauréat ès sciences de la gestion**
 
-- 🖥️ Je suis le cours sur Udemy **The Complete 2024 Web Development Bootcamp**
+- 🖥️ Je suis présentement le cours sur Udemy **The Complete 2024 Web Development Bootcamp**
 
 - 📜 J'ai la certification [Responsive Web Design](https://www.freecodecamp.org/certification/fcc9455d4a1-f4aa-41d9-961f-ec4223936515/responsive-web-design)
 
