@@ -9,7 +9,7 @@
 
 - 👨‍💻 Tous mes projets sont disponibles à [https://github.com/mileneDesjardins?tab=repositories](https://github.com/mileneDesjardins?tab=repositories)
 
-- 📫 Pour me rejoindre : **m.desjardins31@outlook.com**
+- 📫 Pour me rejoindre : m.desjardins31@outlook.com
 
 
 <p align="left">
