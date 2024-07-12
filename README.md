@@ -7,15 +7,15 @@
 </div>
 
 
-- 🏫 I am a student at UQAM in the **Bachelor of Science in Management, specialized in Information Technology**
+- I am a student at UQAM in the **Bachelor of Science in Management, specialized in Information Technology**
 
-- 🖥️ I am taking the **The Complete 2024 Web Development Bootcamp** course on Udemy
+- I am taking the **The Complete 2024 Web Development Bootcamp** course on Udemy
 
-- 📜 I have the **[Responsive Web Design](https://www.freecodecamp.org/certification/fcc9455d4a1-f4aa-41d9-961f-ec4223936515/responsive-web-design)** certification from FreeCodeCamp
+- I have the **[Responsive Web Design](https://www.freecodecamp.org/certification/fcc9455d4a1-f4aa-41d9-961f-ec4223936515/responsive-web-design)** certification from FreeCodeCamp
 
-- 👨‍💻 All my projects are available at [https://github.com/mileneDesjardins?tab=repositories](https://github.com/mileneDesjardins?tab=repositories)
+- All my projects are available at [https://github.com/mileneDesjardins?tab=repositories](https://github.com/mileneDesjardins?tab=repositories)
 
-- 📫 To contact me: m.desjardins31@outlook.com
+- To contact me: m.desjardins31@outlook.com
 
 
 <p align="left">
