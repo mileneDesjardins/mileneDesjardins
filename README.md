@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Milène Desjardins</h1>
-<h3 align="center">A passionate Full-Stack Developper</h3>
+<h3 align="center">A Full-Stack Developper</h3>
 
 
 <div align="center">
